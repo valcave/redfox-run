@@ -6,7 +6,9 @@ ORG:Red Fox Run
 TITLE:Founder
 TEL;TYPE=CELL,VOICE:+1 203-912-3640
 EMAIL;TYPE=INTERNET,PREF:val@redfox.run
-URL:https://www.linkedin.com/in/vcaveney
+URL;TYPE=WORK:https://www.redfox.run
+X-SOCIALPROFILE;TYPE=linkedin;X-USER=vcaveney:https://www.linkedin.com/in/vcaveney
+X-ABLabel:LinkedIn
 ADR;TYPE=WORK:;;;Sonoma;CA;;USA
 NOTE:Executive judgment. Hands-on delivery.
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBAUEBAYFBQUG
